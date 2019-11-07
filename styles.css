@@ -11,6 +11,6 @@ form {
   background-color: darkgray;
   width: 70%;
 }
-input {
+input, select {
   width: 60%;
 }
