@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  
+
 }
 .main {
   display: flex;
@@ -13,4 +13,7 @@ form {
 }
 input, select {
   width: 60%;
+}
+.ch {
+  width: 5% !important;
 }
